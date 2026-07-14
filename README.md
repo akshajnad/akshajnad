@@ -59,5 +59,5 @@ Summer 2027 software engineering internships in applied AI, backend and cloud in
 
 **Email:** [akshajnadn@gmail.com](mailto:akshajnadn@gmail.com)  
 **LinkedIn:** [linkedin.com/in/akshaj-nadimpalli](https://www.linkedin.com/in/akshaj-nadimpalli/)  
-**Portfolio:** [akshajnad.tech](https://www.akshajnad.tech/)  
+**Portfolio:** [akshajnad.tech](http://www.akshajnad.tech/)  
 **Devpost:** [devpost.com/akshajnad](https://devpost.com/akshajnad)
