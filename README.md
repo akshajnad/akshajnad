@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.akshajnad.tech/">Portfolio</a> ·
+  <a href="[https://www.akshajnad.tech/](http://www.akshajnad.tech/)">Portfolio</a> ·
   <a href="mailto:akshajnadn@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/akshaj-nadimpalli/">LinkedIn</a> ·
   <a href="https://devpost.com/akshajnad">Devpost</a>
