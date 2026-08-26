@@ -33,7 +33,7 @@ My favorite projects move beyond a model demo. They connect the model to reliabl
 | **[Talking Fingers](https://github.com/gtiosclub/Talking-Fingers)** | Scores live sign-language practice from hand and body movement | Supports 37 reference signs, including dynamic J and Z motions | Swift, SwiftUI, Apple Vision, dynamic time warping |
 | **[Gridly](https://github.com/akshajnad/energyhacks-gt)** | Controls a physical smart plug and schedules device use for lower-carbon grid windows | Tested across two Georgia cities; Best Use of Vultr at EnergyHack | WebSockets, Vultr, PostgreSQL, IoT, Electricity Maps API |
 | **[Veritas](https://github.com/akshajnad/yhacks26)** | Analyzes medical bills and coordinates email, research, and voice agents to support disputes | YHack 2026 K2 Think V2 Track finalist | Next.js, Supabase, Gemini, OpenAI, Perplexity, ElevenLabs, Twilio |
-| **[SIMULACRA](https://github.com/akshajnad/bitcamp)** | Simulates how 25 AI agents respond to an economic policy inside an interactive city | Multi-agent memory, planning, opinion dynamics, and live analytics | LangGraph, FastAPI, Next.js, Phaser, WebSockets |
+| **[Echolocate](https://github.com/akshajnad/bitcamp)** | Simulates how 25 AI agents respond to an economic policy inside an interactive city | Multi-agent memory, planning, opinion dynamics, and live analytics | LangGraph, FastAPI, Next.js, Phaser, WebSockets |
 
 ## Technical toolkit
 
@@ -46,7 +46,7 @@ My favorite projects move beyond a model demo. They connect the model to reliabl
 ## Recognition
 
 - 4-time hackathon winner with 2 additional track finalist finishes
-- Capital One Best Financial Hack for PPP Pocket
+- Bitcamp Best Moonshot Hack for Echolocate
 - Hacklytics winner for Graption
 - codeLinc winner for FinMate
 - Best Use of Vultr at EnergyHack for Gridly
