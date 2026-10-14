@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="116" viewBox="0 0 1200 116" role="img" aria-label="4 hackathon wins, 2 track finalist finishes, 3 Signifi pilot teams, $25K startup cloud funding">
+  <defs>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#a371f7"/></linearGradient>
+    <style>.b{font:700 34px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;fill:#f0f6fc;letter-spacing:-0.5px}.l{font:500 17px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;fill:#9198a1}</style>
+  </defs>
+  <g transform="translate(0.5 0.5)">
+    <rect width="281" height="115" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="24" y="24" width="24" height="3" rx="1.5" fill="url(#acc)"/>
+    <text x="24" y="72" class="b">4×</text>
+    <text x="24" y="97" class="l">Hackathon wins</text>
+  </g>
+  <g transform="translate(306.5 0.5)">
+    <rect width="281" height="115" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="24" y="24" width="24" height="3" rx="1.5" fill="url(#acc)"/>
+    <text x="24" y="72" class="b">2</text>
+    <text x="24" y="97" class="l">Track finalist finishes</text>
+  </g>
+  <g transform="translate(612.5 0.5)">
+    <rect width="281" height="115" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="24" y="24" width="24" height="3" rx="1.5" fill="url(#acc)"/>
+    <text x="24" y="72" class="b">3</text>
+    <text x="24" y="97" class="l">Signifi pilot teams</text>
+  </g>
+  <g transform="translate(918.5 0.5)">
+    <rect width="281" height="115" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="24" y="24" width="24" height="3" rx="1.5" fill="url(#acc)"/>
+    <text x="24" y="72" class="b">$25K</text>
+    <text x="24" y="97" class="l">Startup cloud funding</text>
+  </g>
+</svg>
