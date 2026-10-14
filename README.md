@@ -18,10 +18,7 @@ I build applied AI systems across **cloud infrastructure**, **computer vision**,
 
 My favorite projects move beyond a model demo. They connect the model to reliable backend workflows, clear interfaces, evaluation, and real users.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img alt="4× hackathon wins · 2 track finalist finishes · 3 Signifi pilot teams · $25K startup cloud funding" src="assets/stats-light.svg" width="100%">
-</picture>
+
 
 ## Current focus
 
