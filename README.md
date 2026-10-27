@@ -102,6 +102,16 @@ My favorite projects move beyond a model demo. They connect the model to reliabl
       <code>LangGraph</code> <code>FastAPI</code> <code>Next.js</code> <code>Phaser</code> <code>WebSockets</code>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/akshajnad/relay">Relay</a></h3>
+      Distributed task engine with exactly-once job state transitions through worker crashes, partitions, and coordinator failover
+      <br><br>
+      🧪 Seeded chaos harness with a linearizability checker · 40 of 40 chaos runs pass with 0 violations · p95 scheduling latency under 2 ms
+      <br><br>
+      <code>Go</code> <code>gRPC</code> <code>Raft</code> <code>Redis</code> <code>Prometheus</code> <code>Grafana</code> <code>Docker</code>
+    </td>
+  </tr>
 </table>
 
 ## Technical toolkit
